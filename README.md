@@ -1,13 +1,14 @@
 # ericaswalters-Week3_CST105_ProgrammingExercise4_Erica_Walters-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* The following program is the original work of Erica Walters.
+ * This program reads from my created text.txt file. The file contains a phrase "It was the perfect night"
+ * The program will read the text file and translate the phrase to pig latin.
+ * The translated phrase will appeat in the display window at the bottom.
  */
 
-/**
- *
- * @author J40514
+/** Program: Pig Latin
+ * File: PigLatin.java
+ * Author: Erica Walters
+ * Date: November 25, 2018 
  */
 
 import java.io.*;
